@@ -1,0 +1,15 @@
+D:\Code\SamplePoker\SamplePoker\bin\Debug\net6.0\SamplePoker.exe
+D:\Code\SamplePoker\SamplePoker\bin\Debug\net6.0\SamplePoker.deps.json
+D:\Code\SamplePoker\SamplePoker\bin\Debug\net6.0\SamplePoker.runtimeconfig.json
+D:\Code\SamplePoker\SamplePoker\bin\Debug\net6.0\SamplePoker.dll
+D:\Code\SamplePoker\SamplePoker\bin\Debug\net6.0\SamplePoker.pdb
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.csproj.AssemblyReference.cache
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.AssemblyInfoInputs.cache
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.AssemblyInfo.cs
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.csproj.CoreCompileInputs.cache
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.dll
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\refint\SamplePoker.dll
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.pdb
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\SamplePoker.genruntimeconfig.cache
+D:\Code\SamplePoker\SamplePoker\obj\Debug\net6.0\ref\SamplePoker.dll
